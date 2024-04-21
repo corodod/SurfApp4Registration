@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SurfApp4Registration</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="next_btn_text">Далее</string>
+    <string name="prev_btn_text">Назад</string>
+    <string name="cancel_btn">Отмена регистрации</string>
+    <string name="ent_name">Введите имя…</string>
+    <string name="ent_lastname">Введите фамилию…</string>
+    <string name="ent_age">Введите возраст…</string>
+</resources>
